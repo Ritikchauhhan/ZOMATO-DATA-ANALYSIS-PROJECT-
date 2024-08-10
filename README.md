@@ -1,12 +1,12 @@
-# ZOMATO-DATA-ANALYSIS-PROJECT-
-Zomato Data Analysis Project
+# ZOMATO-DATA-ANALYSIS-Case Study-
+Zomato Data Analysis Case study 
 Overview
 
-This project involves data analysis using Python to gain insights from Zomato's food delivery business. Zomato averages 17.5 million monthly transacting customers and has seen an 8.7% year-on-year increase in active food delivery restaurant partners. This project focuses on performing Exploratory Data Analysis (EDA) and visualizations to answer key questions about customer behavior and restaurant performance.
+This Case study involves data analysis using Python to gain insights from Zomato's food delivery business. Zomato averages 17.5 million monthly transacting customers and has seen an 8.7% year-on-year increase in active food delivery restaurant partners. This Case study focuses on performing Exploratory Data Analysis (EDA) and visualizations to answer key questions about customer behavior and restaurant performance.
 
-Project Objectives
+Case study Objectives
 
-The primary objectives of this project include:
+The Case study objectives of this case study include:
 
 1-Identifying the types of restaurants the majority of customers order from.
 2-Analyzing the number of votes each type of restaurant has received from customers.
